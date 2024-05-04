@@ -5,7 +5,7 @@ I’m currently working as a Software QA Test Engineer. Looking to collaborate w
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alikaragoz1) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ali-karagoz) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@alikaragoz1) 
+[![Linktree Badge](https://img.shields.io/badge/-Linktree-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://linktr.ee/alikaragoz) 
 
 
 
