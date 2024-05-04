@@ -21,8 +21,6 @@ I’m currently working as a Software QA Test Engineer. Looking to collaborate w
 ![Cucumber](https://img.shields.io/badge/cucumber-%23ED8B00.svg?style=for-the-badge&logo=cucumber&logoColor=white) 
 ![CYPRESS](https://img.shields.io/badge/-Cypress-%23Clojure?style=for-the-badge&logo=cypress&logoColor=white) 
 ![PLAYWRIGHT](https://img.shields.io/badge/-Playwright-%231572B6.svg?style=for-the-badge&logo=playwright&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
@@ -30,6 +28,8 @@ I’m currently working as a Software QA Test Engineer. Looking to collaborate w
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
